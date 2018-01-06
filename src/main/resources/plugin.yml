@@ -1,0 +1,6 @@
+name: XenforoSignup
+main: me.Andrew.BreezeSiteLink.Main
+version: 1.2.0
+author: AndrewAubury
+commands:
+  register:

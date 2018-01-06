@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="BungeeCord-1288">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/BungeeCord-1288.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spigot-1.12.2-R0.1-SNAPSHOT-b1496.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/spigot-1.12.2-R0.1-SNAPSHOT-b1496.jar!/" />
+    </SOURCES>
+  </library>
+</component>

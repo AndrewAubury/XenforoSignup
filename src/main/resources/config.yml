@@ -1,0 +1,14 @@
+API:
+  LINK: "https://breezemc.com/api.php"
+  KEY: "123456890"
+Messages:
+  prefix: "&7[&bSiteLink&7]&f "
+  userAlreadyMade: "&cSorry but a user already exists with your name"
+  userMade: "&ayour user account was made with the password: {PASS}"
+  nameChanged: "&aSite name has been changed"
+  error: "&cthere was a issue, please contact staff"
+  emailNotValid: "&cThe email address was invalid"
+  passwordTooSmall: "&cThe password is too small"
+  usage: "&c/register <email> <password>"
+commands:
+  - "bc {username} has just joined our forums!"
